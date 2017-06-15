@@ -1,0 +1,10 @@
+.DS_Store
+.Python
+
+pip-selfcheck.json
+
+.ipynb_checkpoints/*
+bin/*
+include/*
+lib/*
+share/*
